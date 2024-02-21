@@ -1,1 +1,1 @@
-# electron-learn
+个人Obsidian的笔记库,用于记录学习笔记,读书笔记,工作笔记等.

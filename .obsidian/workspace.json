@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "2a87012bcb3eea45",
+    "type": "split",
+    "children": [
+      {
+        "id": "acd7ee7e5b7a4f9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39384817ce89f7b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust/The Rust Language Programing/hello, world.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec5cedaec3936f81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作相关/git/git tag.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1533d720be7f8014",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc0891f2d66e5eea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c7c5e87b52c2ce2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a23ff4d5a2ff1dbf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6598708649be05eb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f34a79c8a4a666a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4c08c3d7b66f238",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b839ede9f758a28f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rust/The Rust Language Programing/hello, world.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5611ff11d2d081e0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rust/The Rust Language Programing/hello, world.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "17b604a463d24f5e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b42573a13f403bab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rust/The Rust Language Programing/hello, world.md"
+              }
+            }
+          },
+          {
+            "id": "9e69fdd14f012208",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "39384817ce89f7b8",
+  "lastOpenFiles": [
+    "Rust/The Rust Language Programing/变量绑定和结构.md",
+    "Rust/The Rust Language Programing/hello, world.md",
+    "Webgl/WebGL 入门与实践.md",
+    "Rust/The Rust Language Programing",
+    "Rust",
+    "Electron/疑难排除/打包中添加utf-8编码.md",
+    "RoadTo.md",
+    "Electron/疑难排除/使用V8 Inspector调试主进程.md",
+    "Electron/疑难排除/npm下载配置文件.md",
+    "工作相关/git/git tag.md",
+    "Road To",
+    "Webgl",
+    "Electron/生成自定义文件",
+    "Electron/疑难排除",
+    "Electron",
+    "工作相关/git",
+    "git",
+    "工作相关"
+  ]
+}
